@@ -15,6 +15,11 @@ A simple HTML + CSS project that creates a smooth 3D parallax scrolling effect u
 - `style.css`
 - Image assets (`background.png`, `foreground.png`, `sport-1.jpg`, `sport-2.jpg`, `sport-3.jpg`)
 
-## 🚀 Run the Project
+## 🚀 Live Demo
 
-Clone or download the project, then open **`index.html`** in any browser.
+🔗 **View Project:**
+[https://himanshusalunke-works.github.io/Parallax-Effect-Project/](https://himanshusalunke-works.github.io/Parallax-Effect-Project/)
+
+## ▶️ Run Locally
+
+Just open **`index.html`** in any browser.
